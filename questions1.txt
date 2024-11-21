@@ -1,0 +1,47 @@
+
+Question 1:
+What is the primary focus of science?
+A) Uncovering supernatural causes for natural phenomena
+B) Uncovering natural causes for natural phenomena
+C) Proposing untestable ideas about the world
+D) Exploring subjective experiences
+Answer: B) Uncovering natural causes for natural phenomena
+Explanation: Science focuses on explaining the world through inquiry and observation, seeking natural causes for natural phenomena that can be observed and measured.
+
+Question 2:
+Which of the following best describes a scientific theory?
+A) A guess or hunch with little evidence
+B) A testable hypothesis for a specific observation
+C) A well-supported explanation that has undergone extensive testing
+D) A statement based on unverified assumptions
+Answer: C) A well-supported explanation that has undergone extensive testing
+Explanation: A theory in science is broader than a hypothesis and is supported by a substantial body of evidence after extensive and varied testing.
+
+Question 3:
+What does the term “locus” refer to in genetics?
+A) The type of cell in which a gene is found
+B) The specific location of a gene on a chromosome
+C) The total number of genes in an organism
+D) The part of the cell where DNA replication occurs
+Answer: B) The specific location of a gene on a chromosome
+Explanation: A locus is the fixed position on a chromosome where a particular gene is located.
+
+Question 4:
+Which statement correctly describes asexual reproduction?
+A) It results in offspring with genetic material from two parents.
+B) It leads to offspring that are genetically identical to the parent.
+C) It creates more genetic variation than sexual reproduction.
+D) It only occurs in multicellular organisms.
+Answer: B) It leads to offspring that are genetically identical to the parent.
+Explanation: Asexual reproduction involves a single parent, producing genetically identical offspring, also known as clones.
+
+Question 5:
+What is a homologous chromosome?
+A) A chromosome that only carries one set of genes
+B) A chromosome that is only found in reproductive cells
+C) A pair of chromosomes, one from each parent, carrying genes for the same traits
+D) A single chromosome that replicates independently
+Answer: C) A pair of chromosomes, one from each parent, carrying genes for the same traits
+Explanation: Homologous chromosomes are similar pairs that carry genes for the same traits but may have different alleles.
+
+
